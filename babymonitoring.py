@@ -40,5 +40,5 @@ def main():
     else:
         print("No face detected in the image.")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
